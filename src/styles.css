@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.description {
+    background:paleturquoise;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.container-card {
+    display: flex;
+    flex-direction: column;
+
+}
+.card{
+    padding:5px;
+    margin:10px;
+}
